@@ -49,16 +49,12 @@ section{
 
 .cabecalhos{
     text-align: center;
-    color: #fff;
+    color: #605d5d;
     text-transform: uppercase;
     padding-bottom: 3.5rem;
     font-size: 5rem;    
 }
 
-.cabecalhos span{
-    color: #605d5d;
-    text-transform: uppercase;
-}
 
 .btn{
     margin-top: 1rem;
@@ -128,7 +124,7 @@ section{
     align-items: center;
     transform: scaleY(0);
     transform-origin: top;
-    border-radius: 7rem;
+    border-radius: 5%;
 }
 
 .cabeçalho .search-form.active{
@@ -142,7 +138,7 @@ section{
     color: var(--black);
     padding: 1rem;
     text-transform: none;
-    border-radius: 7rem;
+    border-radius: 5%;
 }
 
 
@@ -243,7 +239,7 @@ section{
     right: 500px;
     text-align: center;
     border-radius: 10px;
-    text-transform: capitalize;
+    
 }
 
 .sobre .fileira{
@@ -254,7 +250,7 @@ section{
 }
 
 .sobre .fileira .imagem img{
-    width: 95%;
+    width: 100%;
 }
 
 .sobre .fileira .content{
@@ -265,6 +261,7 @@ section{
 .sobre .fileira .content h3{
     font-size: 3rem;
     color: #fff;
+    
 }
 
 .sobre .fileira .content p{
