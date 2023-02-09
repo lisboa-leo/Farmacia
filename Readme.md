@@ -3,3 +3,6 @@ Esse website foi desenvolvido por mim, estudante do 1ºano do ensino médio  jun
 HTML
 CSS
 JavaScript
+
+--Para acessar o site--
+https://lisboa-leo.github.io/Farmacia/
