@@ -1,4 +1,4 @@
-## Pharm Express
+## :pill: Pharm Express
 
 Olá pessoal,
 
